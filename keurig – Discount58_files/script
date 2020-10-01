@@ -10,7 +10,7 @@
   var CDN_URL = 'https://cdn.trytada.com/';
   var shop_id = '5f5b78f3b145e27ac8153ad9'; 
   var assets = 'https://cdn.trytada.com/widget-data/core/';
-  var version = '1600370396099';
+  var version = '1600984188989';
 
   if (document.readyState === 'complete') {
     loadWidget();
